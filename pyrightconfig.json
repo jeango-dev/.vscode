@@ -4,7 +4,7 @@
         "${workspaceFolder}/odoo",
         "${workspaceFolder}/odoo/addons",
         "${workspaceFolder}/enterprise",
-        "${workspaceFolder}/custom-addons",
+        "${workspaceFolder}/extra-addons",
         "${workspaceFolder}/Bision-consulting",
         "${workspaceFolder}/DEPLOG_v13",
         "${workspaceFolder}/deplogv15",
