@@ -1,13 +1,14 @@
 {
-    "stubPath": "/Users/DEV02/Documents/GitHub/odoo-stubs",
+    "stubPath": "${workspaceFolder}/odoo-stubs",
     "extraPaths": [
-        "/Users/DEV02/Documents/GitHub/odoo",
-        "/Users/DEV02/Documents/GitHub/odoo/addons",
-        "/Users/DEV02/Documents/GitHub/enterprise",
-        "/Users/DEV02/Documents/GitHub/custom-addons",
-        "/Users/DEV02/Documents/GitHub/Bision-consulting",
-        "/Users/DEV02/Documents/GitHub/DEPLOG_v13",
-        "/Users/DEV02/Documents/GitHub/deplogv15",
-        "/Users/DEV02/Documents/GitHub/vztech",
+        "${workspaceFolder}/odoo",
+        "${workspaceFolder}/odoo/addons",
+        "${workspaceFolder}/enterprise",
+        "${workspaceFolder}/custom-addons",
+        "${workspaceFolder}/Bision-consulting",
+        "${workspaceFolder}/DEPLOG_v13",
+        "${workspaceFolder}/deplogv15",
+        "${workspaceFolder}/Deplog_V15",
+        "${workspaceFolder}/vztech",
     ]
 }

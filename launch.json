@@ -33,6 +33,10 @@
                     "localRoot": "${workspaceFolder}/DEPLOG_v13",
                     "remoteRoot": "/var/lib/odoo/DEPLOG_v13"
                 },
+                {
+                    "localRoot": "${workspaceFolder}/Deplog_V15",
+                    "remoteRoot": "/var/lib/odoo/Deplog_V15"
+                },
             ],
         }
     ]
