@@ -14,29 +14,29 @@
             },
             "pathMappings": [
                 {
-                    "localRoot": "${workspaceFolder}/custom-addons",
-                    "remoteRoot": "/var/lib/odoo/custom-addons"
+                    "localRoot": "${workspaceFolder}/extra-addons",
+                    "remoteRoot": "/var/lib/odoo/extra-addons"
                 },
                 {
-                    "localRoot": "${workspaceFolder}/odoo",
+                    "localRoot": "${workspaceFolder}/odoo/odoo",
                     "remoteRoot": "/var/lib/odoo/odoo/addons"
                 },
                 {
-                    "localRoot": "${workspaceFolder}/enterprise",
+                    "localRoot": "${workspaceFolder}/odoo/enterprise",
                     "remoteRoot": "/var/lib/odoo/enterprise"
                 },
                 {
                     "localRoot": "${workspaceFolder}/deplogv15",
-                    "remoteRoot": "/var/lib/odoo/deplogv15"
+                    "remoteRoot": "/var/lib/odoo/deplog"
                 },
-                {
-                    "localRoot": "${workspaceFolder}/DEPLOG_v13",
-                    "remoteRoot": "/var/lib/odoo/DEPLOG_v13"
-                },
-                {
-                    "localRoot": "${workspaceFolder}/Deplog_V15",
-                    "remoteRoot": "/var/lib/odoo/Deplog_V15"
-                },
+                // {
+                //     "localRoot": "${workspaceFolder}/bision-consulting",
+                //     "remoteRoot": "/var/lib/odoo/DEPLOG_v13"
+                // },
+                // {
+                //     "localRoot": "${workspaceFolder}/Deplog_V15",
+                //     "remoteRoot": "/var/lib/odoo/vztech"
+                // },
             ],
         }
     ]

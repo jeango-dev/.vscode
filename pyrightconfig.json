@@ -1,14 +1,12 @@
 {
     "stubPath": "${workspaceFolder}/odoo-stubs",
     "extraPaths": [
-        "${workspaceFolder}/odoo",
-        "${workspaceFolder}/odoo/addons",
-        "${workspaceFolder}/enterprise",
+        "${workspaceFolder}/odoo/odoo",
+        "${workspaceFolder}/odoo/odoo/addons",
+        "${workspaceFolder}/odoo/enterprise",
         "${workspaceFolder}/extra-addons",
-        "${workspaceFolder}/Bision-consulting",
-        "${workspaceFolder}/DEPLOG_v13",
-        "${workspaceFolder}/deplogv15",
-        "${workspaceFolder}/Deplog_V15",
-        "${workspaceFolder}/vztech",
+        "${workspaceFolder}/deplog",
+        // "${workspaceFolder}/Bision-consulting",
+        // "${workspaceFolder}/vztech",
     ]
 }

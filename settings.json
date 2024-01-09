@@ -1,4 +1,10 @@
 {
     "python.languageServer": "pyright",
-    "python.linting.pyrightConfigPath": "./pyrightconfig.json"
+    "python.linting.pyrightConfigPath": "./pyrightconfig.json",
+    "odooShortcuts.addonsPath": [
+        "C:\\Users\\DEV02\\Documents\\GitHub\\odoo\\odoo",
+        "C:\\Users\\DEV02\\Documents\\GitHub\\odoo\\enterprise",
+        "C:\\Users\\DEV02\\Documents\\GitHub\\extra-addons",
+        "C:\\Users\\DEV02\\Documents\\GitHub\\deplog",
+    ]
 }
