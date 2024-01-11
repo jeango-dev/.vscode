@@ -14,10 +14,6 @@
             },
             "pathMappings": [
                 {
-                    "localRoot": "${workspaceFolder}/extra-addons",
-                    "remoteRoot": "/var/lib/odoo/extra-addons"
-                },
-                {
                     "localRoot": "${workspaceFolder}/odoo/odoo",
                     "remoteRoot": "/var/lib/odoo/odoo/addons"
                 },
@@ -26,15 +22,23 @@
                     "remoteRoot": "/var/lib/odoo/enterprise"
                 },
                 {
-                    "localRoot": "${workspaceFolder}/deplogv15",
+                    "localRoot": "${workspaceFolder}/extra-addons",
+                    "remoteRoot": "/var/lib/odoo/extra-addons"
+                },
+                {
+                    "localRoot": "${workspaceFolder}/deplog",
                     "remoteRoot": "/var/lib/odoo/deplog"
                 },
                 // {
                 //     "localRoot": "${workspaceFolder}/bision-consulting",
-                //     "remoteRoot": "/var/lib/odoo/DEPLOG_v13"
+                //     "remoteRoot": "/var/lib/odoo/bision-consulting"
                 // },
                 // {
-                //     "localRoot": "${workspaceFolder}/Deplog_V15",
+                //     "localRoot": "${workspaceFolder}/depco-logistica",
+                //     "remoteRoot": "/var/lib/odoo/depco-logistica"
+                // },
+                // {
+                //     "localRoot": "${workspaceFolder}/vztech",
                 //     "remoteRoot": "/var/lib/odoo/vztech"
                 // },
             ],

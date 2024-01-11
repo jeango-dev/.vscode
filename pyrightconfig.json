@@ -6,7 +6,8 @@
         "${workspaceFolder}/odoo/enterprise",
         "${workspaceFolder}/extra-addons",
         "${workspaceFolder}/deplog",
-        // "${workspaceFolder}/Bision-consulting",
+        // "${workspaceFolder}/bision-consulting",
+        // "${workspaceFolder}/depco-logistica",
         // "${workspaceFolder}/vztech",
     ]
 }
