@@ -2,12 +2,12 @@
     "python.languageServer": "None",
     "python.linting.pyrightConfigPath": "./pyrightconfig.json",
     "odooShortcuts.addonsPath": [
-        "C:\\Users\\DEV01\\Documents\\GitHub\\odoo\\odoo",
-        "C:\\Users\\DEV01\\Documents\\GitHub\\odoo\\enterprise",
-        "C:\\Users\\DEV01\\Documents\\GitHub\\extra-addons",
-        "C:\\Users\\DEV01\\Documents\\GitHub\\deplog",
-        // "C:\\Users\\DEV01\\Documents\\GitHub\\vztech",
-        // "C:\\Users\\DEV01\\Documents\\GitHub\\bision-consulting",
-        // "C:\\Users\\DEV01\\Documents\\GitHub\\depco-logistica",
+        "C:\\Users\\VTJEANGONZALEZ\\Documents\\GitHub\\odoo\\odoo",
+        "C:\\Users\\VTJEANGONZALEZ\\Documents\\GitHub\\odoo\\enterprise",
+        "C:\\Users\\VTJEANGONZALEZ\\Documents\\GitHub\\extra-addons",
+        "C:\\Users\\VTJEANGONZALEZ\\Documents\\GitHub\\deplog",
+        // "C:\\Users\\VTJEANGONZALEZ\\Documents\\GitHub\\vztech",
+        // "C:\\Users\\VTJEANGONZALEZ\\Documents\\GitHub\\bision-consulting",
+        // "C:\\Users\\VTJEANGONZALEZ\\Documents\\GitHub\\depco-logistica",
     ]
 }
