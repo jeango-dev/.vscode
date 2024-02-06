@@ -6,6 +6,7 @@
     "language": "en,es",
     // words - list of words to be always considered correct
     "words": [
+        "comodel",
         "deplog",
         "githubusercontent",
         "mkdirp",
